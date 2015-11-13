@@ -1,4 +1,4 @@
-#James is a big dum-dum
+#James is a small dum-dum
 
 ##Programming Resources!
 
